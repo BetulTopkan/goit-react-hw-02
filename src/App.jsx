@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import Options from "./components/Options/Options";
+import Options from "./components/options/Options";
 import Feedback from "./components/Feedback/Feedback";
 import Notification from "./components/Notification/Notification";
 import css from "./App.module.css";
